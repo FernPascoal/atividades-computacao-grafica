@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_mover_triangulo", "02_mover_triangulo\02_mover_triangulo.vcxproj", "{3CB6EB2D-4DF4-4407-9670-D3074683E0B6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_mudar_cores", "03_mudar_cores\03_mudar_cores.vcxproj", "{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{3CB6EB2D-4DF4-4407-9670-D3074683E0B6}.Release|x64.Build.0 = Release|x64
 		{3CB6EB2D-4DF4-4407-9670-D3074683E0B6}.Release|x86.ActiveCfg = Release|Win32
 		{3CB6EB2D-4DF4-4407-9670-D3074683E0B6}.Release|x86.Build.0 = Release|Win32
+		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Debug|x64.ActiveCfg = Debug|x64
+		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Debug|x64.Build.0 = Debug|x64
+		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Debug|x86.Build.0 = Debug|Win32
+		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Release|x64.ActiveCfg = Release|x64
+		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Release|x64.Build.0 = Release|x64
+		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Release|x86.ActiveCfg = Release|Win32
+		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

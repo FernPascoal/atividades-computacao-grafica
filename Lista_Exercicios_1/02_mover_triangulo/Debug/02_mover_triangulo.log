@@ -1,1 +1,8 @@
-﻿
+﻿  02_mover_triangulo.cpp
+C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\02_mover_triangulo\02_mover_triangulo.cpp(36,22): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\02_mover_triangulo\02_mover_triangulo.cpp(41,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\02_mover_triangulo\02_mover_triangulo.cpp(46,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\02_mover_triangulo\02_mover_triangulo.cpp(51,22): warning C4305: '-=': truncation from 'double' to 'float'
+  gl_utils.cpp
+  Generating Code...
+  02_mover_triangulo.vcxproj -> C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\Debug\02_mover_triangulo.exe
