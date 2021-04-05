@@ -1,6 +1,1 @@
-﻿  03_mudar_cores.cpp
-C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\03_mudar_cores\03_mudar_cores.cpp(37,22): warning C4305: '-=': truncation from 'double' to 'float'
-C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\03_mudar_cores\03_mudar_cores.cpp(42,22): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\03_mudar_cores\03_mudar_cores.cpp(47,22): warning C4305: '+=': truncation from 'double' to 'float'
-C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\03_mudar_cores\03_mudar_cores.cpp(52,22): warning C4305: '-=': truncation from 'double' to 'float'
-  03_mudar_cores.vcxproj -> C:\Users\ferna\Documents\Repositories\atividades-computacao-grafica\Lista_Exercicios_1\Debug\03_mudar_cores.exe
+﻿

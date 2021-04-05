@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_mover_triangulo", "02_mo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_mudar_cores", "03_mudar_cores\03_mudar_cores.vcxproj", "{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04_trocar_fragment_shader", "04_trocar_fragment_shader\04_trocar_fragment_shader.vcxproj", "{C8E7DEEC-C02A-475B-8C16-0E74B6122BB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Release|x64.Build.0 = Release|x64
 		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Release|x86.ActiveCfg = Release|Win32
 		{BC5A3A18-24B0-45AC-B306-D8C69520E1BC}.Release|x86.Build.0 = Release|Win32
+		{C8E7DEEC-C02A-475B-8C16-0E74B6122BB7}.Debug|x64.ActiveCfg = Debug|x64
+		{C8E7DEEC-C02A-475B-8C16-0E74B6122BB7}.Debug|x64.Build.0 = Debug|x64
+		{C8E7DEEC-C02A-475B-8C16-0E74B6122BB7}.Debug|x86.ActiveCfg = Debug|Win32
+		{C8E7DEEC-C02A-475B-8C16-0E74B6122BB7}.Debug|x86.Build.0 = Debug|Win32
+		{C8E7DEEC-C02A-475B-8C16-0E74B6122BB7}.Release|x64.ActiveCfg = Release|x64
+		{C8E7DEEC-C02A-475B-8C16-0E74B6122BB7}.Release|x64.Build.0 = Release|x64
+		{C8E7DEEC-C02A-475B-8C16-0E74B6122BB7}.Release|x86.ActiveCfg = Release|Win32
+		{C8E7DEEC-C02A-475B-8C16-0E74B6122BB7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
